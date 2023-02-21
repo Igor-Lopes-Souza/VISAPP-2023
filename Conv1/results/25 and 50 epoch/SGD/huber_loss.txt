@@ -1,0 +1,37 @@
+Loss: huber_loss
+Epoch number: 25
+fitting with batch size: 20
+
+
+Epoch 25/25
+4378/4378 - 68s - loss: 0.0345 - accuracy: 0.7510 - val_loss: 0.0374 - val_accuracy: 0.7753 - lr: 0.0010 - 68s/epoch - 16ms/step
+
+fitting with batch size: 100 Epoch 25/25
+876/876 - 17s - loss: 0.0345 - accuracy: 0.7526 - val_loss: 0.0369 - val_accuracy: 0.7839 - lr: 0.0010 - 17s/epoch - 20ms/step
+
+fitting with batch size: 500 Epoch 25/25
+176/176 - 10s - loss: 0.0344 - accuracy: 0.7524 - val_loss: 0.0372 - val_accuracy: 0.7787 - lr: 0.0010 - 10s/epoch - 56ms/step
+
+fitting with batch size: 1500 Epoch 25/25
+59/59 - 9s - loss: 0.0344 - accuracy: 0.7533 - val_loss: 0.0370 - val_accuracy: 0.7798 - lr: 0.0010 - 9s/epoch - 151ms/step
+
+fitting with batch size: 2500 Epoch 25/25
+36/36 - 9s - loss: 0.0344 - accuracy: 0.7533 - val_loss: 0.0370 - val_accuracy: 0.7801 - lr: 0.0010 - 9s/epoch - 243ms/step
+
+Epoch number: 50
+fitting with batch size: 20 Epoch 50/50
+4378/4378 - 68s - loss: 0.0343 - accuracy: 0.7544 - val_loss: 0.0375 - val_accuracy: 0.7799 - lr: 0.0010 - 68s/epoch - 16ms/step
+
+fitting with batch size: 100 Epoch 50/50
+876/876 - 17s - loss: 0.0340 - accuracy: 0.7576 - val_loss: 0.0371 - val_accuracy: 0.7780 - lr: 0.0010 - 17s/epoch - 20ms/step
+
+
+fitting with batch size: 500 Epoch 50/50
+176/176 - 10s - loss: 0.0340 - accuracy: 0.7560 - val_loss: 0.0371 - val_accuracy: 0.7805 - lr: 0.0010 - 10s/epoch - 55ms/step
+
+
+fitting with batch size: 1500 Epoch 50/50
+59/59 - 9s - loss: 0.0340 - accuracy: 0.7579 - val_loss: 0.0370 - val_accuracy: 0.7818 - lr: 0.0010 - 9s/epoch - 153ms/step
+
+fitting with batch size: 2500 Epoch 50/50
+36/36 - 8s - loss: 0.0340 - accuracy: 0.7581 - val_loss: 0.0371 - val_accuracy: 0.7805 - lr: 0.0010 - 8s/epoch - 234ms/step

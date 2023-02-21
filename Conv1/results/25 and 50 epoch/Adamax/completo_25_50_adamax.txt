@@ -1,0 +1,213 @@
+Loss: categorical_crossentropy
+Epoch number: 25
+fitting with batch size: 20
+Epoch 25/25
+4378/4378 - 81s - loss: 0.4184 - accuracy: 0.8486 - val_loss: 0.9868 - val_accuracy: 0.7275 - lr: 0.0010 - 81s/epoch - 19ms/step
+fitting with batch size: 100
+Epoch 25/25
+876/876 - 23s - loss: 0.2605 - accuracy: 0.9031 - val_loss: 0.9442 - val_accuracy: 0.7827 - lr: 0.0010 - 23s/epoch - 26ms/step
+fitting with batch size: 500
+Epoch 25/25
+176/176 - 13s - loss: 0.1819 - accuracy: 0.9316 - val_loss: 1.4273 - val_accuracy: 0.7429 - lr: 0.0010 - 13s/epoch - 74ms/step
+fitting with batch size: 1500
+Epoch 25/25
+59/59 - 11s - loss: 0.7944 - accuracy: 0.6994 - val_loss: 0.7178 - val_accuracy: 0.7841 - lr: 0.0010 - 11s/epoch - 180ms/step
+fitting with batch size: 2500
+Epoch 25/25
+36/36 - 11s - loss: 0.7530 - accuracy: 0.7146 - val_loss: 0.7491 - val_accuracy: 0.7631 - lr: 0.0010 - 11s/epoch - 305ms/step
+Epoch number: 50
+Epoch 50/50
+4378/4378 - 94s - loss: 0.4120 - accuracy: 0.8509 - val_loss: 0.9499 - val_accuracy: 0.7451 - lr: 0.0010 - 94s/epoch - 21ms/step
+fitting with batch size: 100
+Epoch 50/50
+876/876 - 27s - loss: 0.2428 - accuracy: 0.9091 - val_loss: 0.9358 - val_accuracy: 0.7873 - lr: 0.0010 - 27s/epoch - 30ms/step
+fitting with batch size: 500
+Epoch 50/50
+176/176 - 15s - loss: 0.1634 - accuracy: 0.9386 - val_loss: 1.6137 - val_accuracy: 0.7343 - lr: 0.0010 - 15s/epoch - 85ms/step
+59/59 - 11s - loss: 0.6844 - accuracy: 0.7401 - val_loss: 0.6586 - val_accuracy: 0.7919 - lr: 0.0010 - 11s/epoch - 183ms/step
+Epoch 50/50
+59/59 - 11s - loss: 0.6818 - accuracy: 0.7406 - val_loss: 0.6210 - val_accuracy: 0.8137 - lr: 0.0010 - 11s/epoch - 187ms/step
+fitting with batch size: 2500
+Epoch 50/50
+36/36 - 12s - loss: 0.6351 - accuracy: 0.7599 - val_loss: 0.6516 - val_accuracy: 0.8076 - lr: 0.0010 - 12s/epoch - 330ms/step
+
+
+
+
+Loss: binary_crossentropy
+Epoch number: 25
+fitting with batch size: 20
+Epoch 25/25
+176/176 - 15s - loss: 0.0599 - accuracy: 0.9346 - val_loss: 0.5087 - val_accuracy: 0.7415 - lr: 0.0010 - 15s/epoch - 84ms/step
+Epoch number: 50
+fitting with batch size: 20
+Epoch 50/50
+4378/4378 - 73s - loss: 0.1362 - accuracy: 0.8590 - val_loss: 0.2377 - val_accuracy: 0.8409 - lr: 0.0010 - 73s/epoch - 17ms/step
+fitting with batch size: 100
+Epoch 50/50
+876/876 - 18s - loss: 0.0831 - accuracy: 0.9116 - val_loss: 0.3970 - val_accuracy: 0.7642 - lr: 0.0010 - 18s/epoch - 20ms/step
+fitting with batch size: 500
+Epoch 50/50
+176/176 - 8s - loss: 0.0564 - accuracy: 0.9386 - val_loss: 0.5217 - val_accuracy: 0.7422 - lr: 0.0010 - 8s/epoch - 48ms/step
+fitting with batch size: 1500
+Epoch 25/25
+59/59 - 12s - loss: 0.2149 - accuracy: 0.7646 - val_loss: 0.2131 - val_accuracy: 0.8281 - lr: 0.0010 - 12s/epoch - 205ms/step
+fitting with batch size: 2500
+Epoch 25/25
+36/36 - 12s - loss: 0.2047 - accuracy: 0.7755 - val_loss: 0.2128 - val_accuracy: 0.8248 - lr: 0.0010 - 12s/epoch - 330ms/step
+Epoch number: 50
+fitting with batch size: 20
+Epoch 50/50
+4378/4378 - 73s - loss: 0.1362 - accuracy: 0.8590 - val_loss: 0.2377 - val_accuracy: 0.8409 - lr: 0.0010 - 73s/epoch - 17ms/step
+fitting with batch size: 100
+Epoch 50/50
+876/876 - 18s - loss: 0.0831 - accuracy: 0.9116 - val_loss: 0.3970 - val_accuracy: 0.7642 - lr: 0.0010 - 18s/epoch - 20ms/step
+fitting with batch size: 500
+Epoch 50/50
+176/176 - 8s - loss: 0.0564 - accuracy: 0.9386 - val_loss: 0.5217 - val_accuracy: 0.7422 - lr: 0.0010 - 8s/epoch - 48ms/step
+fitting with batch size: 1500
+Epoch 50/50
+59/59 - 13s - loss: 0.1929 - accuracy: 0.7894 - val_loss: 0.2114 - val_accuracy: 0.8261 - lr: 0.0010 - 13s/epoch - 224ms/step
+fitting with batch size: 2500
+Epoch 50/50
+36/36 - 11s - loss: 0.1780 - accuracy: 0.8069 - val_loss: 0.2188 - val_accuracy: 0.8231 - lr: 0.0010 - 11s/epoch - 298ms/step
+
+
+
+
+
+Loss: huber_loss
+Epoch number: 25
+fitting with batch size: 20
+Epoch 25/25
+4378/4378 - 75s - loss: 0.0364 - accuracy: 0.7425 - val_loss: 0.0370 - val_accuracy: 0.7716 - lr: 0.0010 - 75s/epoch - 17ms/step
+fitting with batch size: 100
+
+Epoch 25/25
+876/876 - 18s - loss: 0.0295 - accuracy: 0.8006 - val_loss: 0.0305 - val_accuracy: 0.8139 - lr: 0.0010 - 18s/epoch - 21ms/step
+fitting with batch size: 500
+Epoch 25/25
+176/176 - 10s - loss: 0.0245 - accuracy: 0.8413 - val_loss: 0.0330 - val_accuracy: 0.7928 - lr: 0.0010 - 10s/epoch - 56ms/step
+fitting with batch size: 1500
+Epoch 25/25
+59/59 - 9s - loss: 0.0222 - accuracy: 0.8596 - val_loss: 0.0332 - val_accuracy: 0.7959 - lr: 0.0010 - 9s/epoch - 158ms/step
+fitting with batch size: 2500
+Epoch 25/25
+36/36 - 9s - loss: 0.0208 - accuracy: 0.8700 - val_loss: 0.0340 - val_accuracy: 0.7909 - lr: 0.0010 - 9s/epoch - 240ms/step
+Epoch number: 50
+fitting with batch size: 20
+Epoch 50/50
+4378/4378 - 75s - loss: 0.0265 - accuracy: 0.8233 - val_loss: 0.0276 - val_accuracy: 0.8332 - lr: 0.0010 - 75s/epoch - 17ms/step
+fitting with batch size: 100
+Epoch 50/50
+876/876 - 18s - loss: 0.0196 - accuracy: 0.8746 - val_loss: 0.0330 - val_accuracy: 0.7960 - lr: 0.0010 - 18s/epoch - 21ms/step
+fitting with batch size: 500
+Epoch 50/50
+176/176 - 10s - loss: 0.0149 - accuracy: 0.9073 - val_loss: 0.0339 - val_accuracy: 0.7932 - lr: 0.0010 - 10s/epoch - 55ms/step
+fitting with batch size: 1500
+Epoch 50/50
+59/59 - 9s - loss: 0.0132 - accuracy: 0.9196 - val_loss: 0.0357 - val_accuracy: 0.7854 - lr: 0.0010 - 9s/epoch - 157ms/step
+fitting with batch size: 2500
+Epoch 50/50
+36/36 - 9s - loss: 0.0119 - accuracy: 0.9282 - val_loss: 0.0368 - val_accuracy: 0.7817 - lr: 0.0010 - 9s/epoch - 237ms/step
+
+
+
+
+
+
+
+
+
+
+
+Loss: kullback_leibler_divergence
+Epoch number: 25
+fitting with batch size: 20
+Epoch 25/25
+4378/4378 - 74s - loss: 0.4874 - accuracy: 0.8442 - val_loss: 0.6419 - val_accuracy: 0.7835 - lr: 0.0010 - 74s/epoch - 17ms/step
+fitting with batch size: 100
+Epoch 25/25
+876/876 - 18s - loss: 0.3698 - accuracy: 0.8859 - val_loss: 0.7037 - val_accuracy: 0.7628 - lr: 0.0010 - 18s/epoch - 21ms/step
+fitting with batch size: 500
+Epoch 25/25
+176/176 - 10s - loss: 0.2838 - accuracy: 0.9145 - val_loss: 0.8278 - val_accuracy: 0.7402 - lr: 0.0010 - 10s/epoch - 55ms/step
+fitting with batch size: 1500
+Epoch 25/25
+59/59 - 9s - loss: 0.2446 - accuracy: 0.9261 - val_loss: 0.9376 - val_accuracy: 0.7230 - lr: 0.0010 - 9s/epoch - 157ms/step
+fitting with batch size: 2500
+Epoch 25/25
+36/36 - 9s - loss: 0.2179 - accuracy: 0.9361 - val_loss: 0.9743 - val_accuracy: 0.7240 - lr: 0.0010 - 9s/epoch - 240ms/step
+Epoch number: 50
+fitting with batch size: 20
+Epoch 50/50
+4378/4378 - 75s - loss: 0.4241 - accuracy: 0.8593 - val_loss: 0.6189 - val_accuracy: 0.7937 - lr: 0.0010 - 75s/epoch - 17ms/step
+fitting with batch size: 100
+Epoch 50/50
+876/876 - 18s - loss: 0.2850 - accuracy: 0.9066 - val_loss: 0.8046 - val_accuracy: 0.7356 - lr: 0.0010 - 18s/epoch - 21ms/step
+fitting with batch size: 500
+Epoch 50/50
+176/176 - 13s - loss: 0.1950 - accuracy: 0.9370 - val_loss: 0.9489 - val_accuracy: 0.7330 - lr: 0.0010 - 13s/epoch - 74ms/step
+fitting with batch size: 1500
+Epoch 50/50
+59/59 - 12s - loss: 0.1622 - accuracy: 0.9489 - val_loss: 1.0766 - val_accuracy: 0.7185 - lr: 0.0010 - 12s/epoch - 209ms/step
+fitting with batch size: 2500
+
+
+
+
+
+
+Loss: poisson
+Epoch number: 25
+fitting with batch size: 20
+Epoch 25/25
+4378/4378 - 90s - loss: 0.2753 - accuracy: 0.8721 - val_loss: 0.3308 - val_accuracy: 0.7699 - lr: 0.0010 - 90s/epoch - 21ms/step
+fitting with batch size: 100
+Epoch 25/25
+876/876 - 23s - loss: 0.2512 - accuracy: 0.9147 - val_loss: 0.3478 - val_accuracy: 0.7573 - lr: 0.0010 - 23s/epoch - 26ms/step
+fitting with batch size: 500
+Epoch 25/25
+176/176 - 12s - loss: 0.2364 - accuracy: 0.9397 - val_loss: 0.3835 - val_accuracy: 0.7326 - lr: 0.0010 - 12s/epoch - 70ms/step
+fitting with batch size: 1500
+Epoch 25/25
+59/59 - 11s - loss: 0.2308 - accuracy: 0.9501 - val_loss: 0.4022 - val_accuracy: 0.7295 - lr: 0.0010 - 11s/epoch - 192ms/step
+fitting with batch size: 2500
+Epoch 25/25
+36/36 - 11s - loss: 0.2251 - accuracy: 0.9606 - val_loss: 0.4199 - val_accuracy: 0.7248 - lr: 0.0010 - 11s/epoch - 304ms/step
+Epoch number: 50
+fitting with batch size: 20
+Epoch 50/50
+4378/4378 - 87s - loss: 0.2695 - accuracy: 0.8810 - val_loss: 0.3486 - val_accuracy: 0.7311 - lr: 0.0010 - 87s/epoch - 20ms/step
+fitting with batch size: 100
+Epoch 50/50
+876/876 - 24s - loss: 0.2461 - accuracy: 0.9220 - val_loss: 0.3696 - val_accuracy: 0.7211 - lr: 0.0010 - 24s/epoch - 27ms/step
+fitting with batch size: 500
+Epoch 50/50
+176/176 - 13s - loss: 0.2299 - accuracy: 0.9499 - val_loss: 0.4007 - val_accuracy: 0.7418 - lr: 0.0010 - 13s/epoch - 75ms/step
+fitting with batch size: 1500
+Epoch 50/50
+59/59 - 11s - loss: 0.2243 - accuracy: 0.9601 - val_loss: 0.4316 - val_accuracy: 0.7252 - lr: 0.0010 - 11s/epoch - 194ms/step
+fitting with batch size: 2500
+Epoch 50/50
+36/36 - 10s - loss: 0.2193 - accuracy: 0.9690 - val_loss: 0.4542 - val_accuracy: 0.7264 - lr: 0.0010 - 10s/epoch - 288ms/step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
